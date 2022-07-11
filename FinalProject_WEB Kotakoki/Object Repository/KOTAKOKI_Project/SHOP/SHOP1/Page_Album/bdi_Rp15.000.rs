@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Rp15.000</name>
+   <tag></tag>
+   <elementGuidId>2d3c571b-5d37-4da2-852d-03251a4c787c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-17']/div/div/div[2]/div/p/span/bdi</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.price > span.woocommerce-Price-amount.amount > bdi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>2697c089-2f92-4573-9c23-ba05db782a2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp15.000</value>
+      <webElementGuid>d3426f1c-11c4-4c19-a84e-5a16ffb9ca98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-17&quot;)/div[@class=&quot;product_infos&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;small-12 large-5 columns&quot;]/div[@class=&quot;summary entry-summary&quot;]/p[@class=&quot;price&quot;]/span[@class=&quot;woocommerce-Price-amount amount&quot;]/bdi[1]</value>
+      <webElementGuid>f35aa609-816e-40c9-8825-d08041eb3d84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-17']/div/div/div[2]/div/p/span/bdi</value>
+      <webElementGuid>efa6e501-6a0e-41f6-a048-c28bde44bb25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Album'])[2]/following::bdi[1]</value>
+      <webElementGuid>5101deb7-c814-498d-a036-6722ef23c114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::bdi[1]</value>
+      <webElementGuid>5554a896-4965-46cc-9c31-6d0733922828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Album quantity'])[1]/preceding::bdi[1]</value>
+      <webElementGuid>037d6ac3-1d76-4d5a-b693-5b6ec3008908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p/span/bdi</value>
+      <webElementGuid>9bcfc6b7-9573-4d89-8fcf-df52d69256fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[(text() = 'Rp15.000' or . = 'Rp15.000')]</value>
+      <webElementGuid>de5676f4-9718-4db4-9ec0-089568f1eb76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
