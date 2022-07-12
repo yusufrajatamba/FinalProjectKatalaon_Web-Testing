@@ -1,5 +1,5 @@
 
-Explanation of QA Automation Testing Mobile Testing
+Explanation of QA Automation Testing WEB Testing
 ----------------------------------------------------
 <p>@uthor : Yusuf Raja Tamba </p>
 
@@ -9,7 +9,7 @@ Participant code : KSAT006ONL003
 
 ----------------------------------------------------
 
-Project Name : Final Project - Mobile Testing : Demo.BANK.apk
+Project Name : Final Project - Mobile Testing : https://kotakoki.wijaysali.my.id/
 
 
 Number of Test Data :
