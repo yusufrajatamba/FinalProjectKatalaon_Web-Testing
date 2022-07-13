@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Register New account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>22accb04-47e6-4b5f-a6a4-44e5eb4806fb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>327fc405-d421-45c9-9a78-02d914073387</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8013ce86-6aa3-4417-b680-550e8e3c0866</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>93ea15e9-6302-4d28-a71a-f4f5d8d0a926</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Yusufraja1234'</defaultValue>
+      <description></description>
+      <id>327fc405-d421-45c9-9a78-02d914073387</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Yusuf.tamba123321@bfi.co.id'</defaultValue>
+      <description></description>
+      <id>8013ce86-6aa3-4417-b680-550e8e3c0866</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'IniPassword12'</defaultValue>
+      <description></description>
+      <id>93ea15e9-6302-4d28-a71a-f4f5d8d0a926</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Anda berada dalam Mode Uji Coba, setiap t_fc5680</name>
+   <tag></tag>
+   <elementGuidId>dc7c9275-b520-4c28-b7cc-5376182b2061</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ad428373-a4f7-417d-83e4-168d6292a8cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-white</value>
+      <webElementGuid>dc364882-aa78-4dd6-8638-a912f266140c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anda berada dalam Mode Uji Coba, setiap transaksi yang dilakukan adalah simulasi dan tidak nyata.</value>
+      <webElementGuid>fa0ca035-af70-4e5e-835a-bf50f442a0eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;px-4 sm:px-20 md:px-lg py-2 sticky sm:relative top-0 z-10 bg-red-500 font-sans text-center text-xs sm:text-sm font-semibold&quot;]/p[@class=&quot;text-white&quot;]</value>
+      <webElementGuid>72a4d23e-5c38-48c3-b789-8f9aef2399b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/p</value>
+      <webElementGuid>39caf778-c1bf-49d9-9e7a-ce4f46f51f64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDLC'])[1]/preceding::p[1]</value>
+      <webElementGuid>05bce79c-41c0-4b83-b2ab-23c39f2d8f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/preceding::p[1]</value>
+      <webElementGuid>b92e9dbe-4ada-4368-9b55-9326cabfdeb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Anda berada dalam Mode Uji Coba, setiap transaksi yang dilakukan adalah simulasi dan tidak nyata.']/parent::*</value>
+      <webElementGuid>f017573d-eb22-428c-b3bb-c1510a30051a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>f9c4865f-73f4-4707-8bfb-0d338ea61ea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Anda berada dalam Mode Uji Coba, setiap transaksi yang dilakukan adalah simulasi dan tidak nyata.' or . = 'Anda berada dalam Mode Uji Coba, setiap transaksi yang dilakukan adalah simulasi dan tidak nyata.')]</value>
+      <webElementGuid>704c96d4-a97c-4b1f-8464-43943c2dae8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

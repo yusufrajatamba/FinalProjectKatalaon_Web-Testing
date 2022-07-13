@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>page_AtmIbankingMbankingLangkah</name>
+   <tag></tag>
+   <elementGuidId>e1fc0461-ab60-445f-9986-a84bf69ad31b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mt-6 > div.mt-6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b84efb3-20a6-4f73-bcad-cf00dec2d740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-6</value>
+      <webElementGuid>7f4c5a2e-02d7-4d84-8b42-7b0c966e1271</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AtmIbankingMbankingLangkah 1: Temukan ATM Terdekat1. Masukkan Kartu ATM BCA2. Masukkan PINLangkah 2: Detail Pembayaran1. Pilih menu &quot;Transaksi Lainnya&quot;2. Pilih menu &quot;Transfer&quot;3. Pilih menu &quot;ke Rekening BCA Virtual Account&quot;4. Masukkan Nomor Virtual Account Anda 1076624894977. Tekan &quot;Benar&quot; untuk melanjutkan5. Di halaman konfirmasi, pastikan detil pembayaran sudah sesuai seperti No VA, Nama, Perus/Produk dan Total Tagihan, tekan &quot;Benar&quot; untuk melanjutkan6. Pastikan nama kamu dan Total Tagihannya benar7. Tekan &quot;Ya&quot; jika sudah benarLangkah 3: Transaksi Berhasil1. Transaksi Anda telah selesai2. Setelah transaksi anda selesai, invoice ini akan diupdate secara otomatis. Proses ini mungkin memakan waktu hingga 5 menit</value>
+      <webElementGuid>0daddff9-18f5-4dbd-a65c-b9a3ff5e272d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[2]/div[@class=&quot;flex min-h-screen&quot;]/div[@class=&quot;pt-8 mx-32 w-3/5&quot;]/div[@class=&quot;mt-6&quot;]/div[@class=&quot;mt-6&quot;]</value>
+      <webElementGuid>fcbf61cf-494f-4b74-8d7d-9a51ce35eedc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div[2]</value>
+      <webElementGuid>d9f8a2e8-69bf-4877-9288-76e002f58145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 45.036'])[1]/following::div[2]</value>
+      <webElementGuid>e122dc17-075f-4849-b1f1-4499a3d2d076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nominal yang akan dibayarkan'])[1]/following::div[4]</value>
+      <webElementGuid>b475befd-ccc6-414d-8719-af5537281eab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[2]</value>
+      <webElementGuid>829e75bb-0fbb-4b18-8303-23c1f0c1c0d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AtmIbankingMbankingLangkah 1: Temukan ATM Terdekat1. Masukkan Kartu ATM BCA2. Masukkan PINLangkah 2: Detail Pembayaran1. Pilih menu &quot;Transaksi Lainnya&quot;2. Pilih menu &quot;Transfer&quot;3. Pilih menu &quot;ke Rekening BCA Virtual Account&quot;4. Masukkan Nomor Virtual Account Anda 1076624894977. Tekan &quot;Benar&quot; untuk melanjutkan5. Di halaman konfirmasi, pastikan detil pembayaran sudah sesuai seperti No VA, Nama, Perus/Produk dan Total Tagihan, tekan &quot;Benar&quot; untuk melanjutkan6. Pastikan nama kamu dan Total Tagihannya benar7. Tekan &quot;Ya&quot; jika sudah benarLangkah 3: Transaksi Berhasil1. Transaksi Anda telah selesai2. Setelah transaksi anda selesai, invoice ini akan diupdate secara otomatis. Proses ini mungkin memakan waktu hingga 5 menit' or . = 'AtmIbankingMbankingLangkah 1: Temukan ATM Terdekat1. Masukkan Kartu ATM BCA2. Masukkan PINLangkah 2: Detail Pembayaran1. Pilih menu &quot;Transaksi Lainnya&quot;2. Pilih menu &quot;Transfer&quot;3. Pilih menu &quot;ke Rekening BCA Virtual Account&quot;4. Masukkan Nomor Virtual Account Anda 1076624894977. Tekan &quot;Benar&quot; untuk melanjutkan5. Di halaman konfirmasi, pastikan detil pembayaran sudah sesuai seperti No VA, Nama, Perus/Produk dan Total Tagihan, tekan &quot;Benar&quot; untuk melanjutkan6. Pastikan nama kamu dan Total Tagihannya benar7. Tekan &quot;Ya&quot; jika sudah benarLangkah 3: Transaksi Berhasil1. Transaksi Anda telah selesai2. Setelah transaksi anda selesai, invoice ini akan diupdate secara otomatis. Proses ini mungkin memakan waktu hingga 5 menit')]</value>
+      <webElementGuid>06969cfa-05e6-42e4-9a5b-cf6786b623a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

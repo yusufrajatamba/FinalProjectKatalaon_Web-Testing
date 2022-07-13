@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_yusuf.tamba27gmail.com</name>
+   <tag></tag>
+   <elementGuidId>af9b4f1a-2efb-4b2c-9d17-ac6b78a8cffd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-54']/div/div/div/ul/li[3]/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.woocommerce-order-overview__email.email > strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>f589a806-4e78-4793-8b20-07d0293ea209</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>yusuf.tamba27@gmail.com</value>
+      <webElementGuid>ef7bd4eb-731d-4aa4-aca4-017889700b51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-54&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;woocommerce-order&quot;]/ul[@class=&quot;woocommerce-order-overview woocommerce-thankyou-order-details order_details&quot;]/li[@class=&quot;woocommerce-order-overview__email email&quot;]/strong[1]</value>
+      <webElementGuid>250e94ac-0180-4335-8e72-7e9b4e777c9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-54']/div/div/div/ul/li[3]/strong</value>
+      <webElementGuid>e9221088-4e1f-4327-bbbf-b6f4b02b9502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='July 13, 2022'])[1]/following::strong[1]</value>
+      <webElementGuid>abdc2881-fbfe-4817-9e67-630a5144bf99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[4]/preceding::strong[1]</value>
+      <webElementGuid>6464bc08-7ba4-4d2b-901f-1791b5314144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='yusuf.tamba27@gmail.com']/parent::*</value>
+      <webElementGuid>589bdd4a-ba0f-4449-b463-bb6697fca0e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/strong</value>
+      <webElementGuid>10f01e0f-bec3-4b33-8c27-c8db7478fa0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'yusuf.tamba27@gmail.com' or . = 'yusuf.tamba27@gmail.com')]</value>
+      <webElementGuid>cbbd15dc-e858-4906-a47f-5ab849763573</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
